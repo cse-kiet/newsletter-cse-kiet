@@ -17,3 +17,21 @@ As a department, we allow its stakeholders (faculties, alumni & students) to sho
 5. 
 6. 
 7. 
+
+
+### Points to be discussed
+- My idea is to design a document which could contain the following things in it:-
+  * Student articles
+  * faculty articles
+  * Alumi articles
+  * HOW TOs like develop your first android app using kotlin, develop a small ML applocation, etc..
+  * Do we need to add the departmetn activities into the newsletter?
+  * Will we be preparing the PDF version as well, or only e-version will suffice?
+- What is the main idea behind designing the page?
+- Do we need to design the page same as what is done by MCA Department?
+- who will be dsigning the pdf version of the newsletter
+- Who will be giving the articiles? 
+- Who will be doing the animation of the doument?
+- What will be my role?
+- What should be the frequency of the newsletter(monthly, bi-yearly, quaterly, yearly?
+- 
