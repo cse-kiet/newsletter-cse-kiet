@@ -33,5 +33,4 @@ As a department, we allow its stakeholders (faculties, alumni & students) to sho
 - Who will be giving the articiles? 
 - Who will be doing the animation of the doument?
 - What will be my role?
-- What should be the frequency of the newsletter(monthly, bi-yearly, quaterly, yearly?
-- 
+- What should be the frequency of the newsletter(monthly, bi-yearly, quaterly, yearly? 
