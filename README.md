@@ -19,7 +19,7 @@ As a department, we allow its stakeholders (faculties, alumni & students) to sho
 
 
 ### Points to be discussed
-- My idea is to design a document which could contain the following things in it:-
+- My idea is to design a web portal like opensourceforu.com, zdnet.com, pcmag.com which could contain the following things in it:-
   * Student articles
   * faculty articles
   * Alumi articles
