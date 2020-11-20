@@ -6,7 +6,7 @@ The department aims to be the Centre of Excellence in providing international st
 
 ## Basic intent behind the Newsletter portal
 
-As a department, we allow its stakeholders (faculties, alumni & students) to showcase their skills and in turn help the societly by imparting the skills acquired by them. To continue the process we conceptulized the idea of Newsletter, in which stakeholders are requested to write their views and with rigrous editing we publish them, under the leadership of Dr Prof. Vineet Sharma( HOD Cumputer Science & Engineering Department).
+As a department, we allow its stakeholders (faculties, alumni & students) to showcase their skills and in turn help the societly by imparting the skills acquired by them. To continue the process we conceptulized the idea of Newsletter, in which stakeholders are requested to write their views and with rigrous editing we publish them, under the leadership of Dr Prof. Vineet Sharma( HOD Computer Science & Engineering Department).
 
 
 ### Editorial Board
