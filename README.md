@@ -9,14 +9,13 @@ The department aims to be the Centre of Excellence in providing international st
 As a department, we allow its stakeholders (faculties, alumni & students) to showcase their skills and in turn help the societly by imparting the skills acquired by them. To continue the process we conceptulized the idea of Newsletter, in which stakeholders are requested to write their views and with rigrous editing we publish them, under the leadership of Dr Prof. Vineet Sharma( HOD Computer Science & Engineering Department).
 
 
-### Editorial Board
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+### Team
+1. Main Editor
+2. Sub Editor
+3. Team for collecting the articles
+4. Team who will compile the articles and prooof read them
+5. Animation team
+6. [Social media marketing team and content writing team]
 
 
 ### Points to be discussed
@@ -28,9 +27,13 @@ As a department, we allow its stakeholders (faculties, alumni & students) to sho
   * Do we need to add the departmetn activities into the newsletter?
   * Will we be preparing the PDF version as well, or only e-version will suffice?
 - What is the main idea behind designing the page?
+- Will the portal be specifically for CSE department or any other department can also particiapte in it?
 - Do we need to design the page same as what is done by MCA Department?
 - who will be dsigning the pdf version of the newsletter
 - Who will be giving the articiles? 
 - Who will be doing the animation of the doument?
 - What will be my role?
 - What should be the frequency of the newsletter(monthly, bi-yearly, quaterly, yearly? 
+- Do we need to work on the same platform or could opt for some other platform as well like google sites, wikimedia, wix.com or any other( I need to research on this )
+- Do we need to do social media marketing for the portal as well?
+ * if yes, then we need to have a seperate team for it
