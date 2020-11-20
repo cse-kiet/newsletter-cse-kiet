@@ -1,3 +1,4 @@
+![KIET Logo](https://www.kiet.edu/assets/frontend/img/logo-inner.png)
 ## Welcome to Comuter Science and Engineering - Newsletter portal
 
 Department of [Computer Science & Engineering](https://www.kiet.edu/home/access_depart_data/NQ==) was established in the year 1998, with the objective of imparting quality education in the field of Computer sciences. Department of Computer Science & Engineering is accredited by NBA (National Board of Accreditation). 
