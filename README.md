@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Comuter Science and Engineering - Newsletter portal
 
-You can use the [editor on GitHub](https://github.com/cse-kiet/cse-kiet.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Department of [Computer Science & Engineering](https://www.kiet.edu/home/access_depart_data/NQ==) was established in the year 1998, with the objective of imparting quality education in the field of Computer sciences. Department of Computer Science & Engineering is accredited by NBA (National Board of Accreditation). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The department aims to be the Centre of Excellence in providing international standard education and consultation in the field of computer science and engineering thus targets to produce globally competent and self disciplined computer engineers. With rapidly evolving technology and continuous need for innovation, the department has always produced quality professionals, holding important positions in information technology industry in India and abroad.
 
-### Markdown
+## Basic intent behind the Newsletter portal
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As a department, we allow its stakeholders (faculties, alumni & students) to showcase their skills and in turn help the societly by imparting the skills acquired by them. To continue the process we conceptulized the idea of Newsletter, in which stakeholders are requested to write their views and with rigrous editing we publish them, under the leadership of Dr Prof. Vineet Sharma( HOD Cumputer Science & Engineering Department).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cse-kiet/cse-kiet.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Editorial Board
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
